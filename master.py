@@ -9,4 +9,3 @@ df = pd.DataFrame({
     'Marks': [98, 90, 89, 76]
 })
 st.write(df.describe())
-st.write(df.line_bar())
